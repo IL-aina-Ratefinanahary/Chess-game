@@ -1,4 +1,4 @@
-**Chess Game with C++
+**Chess Game with C++**
 
 Simpler as possible!
 
